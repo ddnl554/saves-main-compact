@@ -68,7 +68,7 @@ interactable.__index = interactable
 --//Theme
 local theme = getgenv().theme or {
     BackColor = Color3.fromRGB(168,156,178),
-    TopBar = Color3.fromRGB(57,191,225),
+    TopBar = Color3.fromRGB(168,156,178),
 
     UpperContainer = Color3.fromRGB(131,35,67),
     InnerContainer = Color3.fromRGB(80,32,49),
