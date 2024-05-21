@@ -76,7 +76,7 @@ local theme = getgenv().theme or {
     InteractableBackground = Color3.fromRGB(173, 118, 255),
     InteractableOutline = Color3.fromRGB(130, 113, 156),
 
-    Accent = Color3.fromRGB(76, 0, 153), --> Used for hover outlines, selected tab
+    Accent = Color3.fromRGB(250,250,250), --> Used for hover outlines, selected tab
 
     NotSelectedTab = Color3.fromRGB(51, 0, 102), --> shows on all OTHER tabs
 
