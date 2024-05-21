@@ -70,7 +70,7 @@ local theme = getgenv().theme or {
     BackColor = Color3.fromRGB(156,72,103),
     TopBar = Color3.fromRGB(171, 171, 171),
 
-    UpperContainer = Color3.fromRGB(183,68,130),
+    UpperContainer = Color3.fromRGB(131,35,67),
     InnerContainer = Color3.fromRGB(80,32,49),
 
     InteractableBackground = Color3.fromRGB(173, 118, 255),
