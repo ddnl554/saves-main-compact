@@ -68,7 +68,7 @@ interactable.__index = interactable
 --//Theme
 local theme = getgenv().theme or {
     BackColor = Color3.fromRGB(157,178,189),
-    TopBar = Color3.fromRGB(186,174,198),
+    TopBar = Color3.fromRGB(183,185,199),
 
     UpperContainer = Color3.fromRGB(52,176,185),
     InnerContainer = Color3.fromRGB(45,136,154),
@@ -78,10 +78,10 @@ local theme = getgenv().theme or {
 
     Accent = Color3.fromRGB(250,250,250), --> Used for hover outlines, selected tab
 
-    NotSelectedTab = Color3.fromRGB(112,113,122), --> shows on all OTHER tabs
+    NotSelectedTab = Color3.fromRGB(175,175,175), --> shows on all OTHER tabs
 
     TextColor = Color3.fromRGB(53,53,53),
-    SubTextColor = Color3.fromRGB(89,89,89),
+    SubTextColor = Color3.fromRGB(63,63,63),
 
 
     ButtonTop = Color3.fromRGB(50, 50, 64), --Top color layer of the button.
